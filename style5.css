@@ -1,0 +1,114 @@
+
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    position: relative;
+    margin: 50px 0 20px 30px;
+    padding: 20px 0 20px 0; 
+    /* border-bottom: 1px solid red; */
+    width: 250px;
+
+}
+
+h2 {
+    position: absolute;
+    left: 50px;
+    bottom: 60px;
+    margin-left: 5px;
+    font-family: sans-serif;
+    color: black;
+}
+
+h3{
+    position: absolute;
+    left: 50px;
+    bottom: 40px;
+    margin-left: 5px;
+    font-family: sans-serif;
+    font-weight: 200;
+    color: black;
+
+}
+
+
+
+
+nav{
+    border: 1px none red;
+    width: 250px;
+    margin-left: 20px;
+    position: relative;
+    
+
+}
+ img{
+    width: 60px;
+    height: 60px;
+    padding-right: 10px;
+ }
+
+ .edgenav{
+    list-style-type: none;
+    font-size: 23px;
+    font-family: sans-serif;
+    font-weight: 900;
+       border-bottom: 1px solid rgb(140, 134, 134 , 0.4);
+    border-top: 1px solid rgb(140, 134, 134 , 0.4);
+    padding:20px;
+ }
+
+ .edgenav , a{
+    text-decoration: none;
+    color: black;
+ 
+ }
+
+ .arrow{
+    position: absolute;
+    left: 170px;
+    top: 0px;
+ }
+
+.dav:hover{
+    background-color: rgba(175, 163, 163, 0.225);
+    
+ }
+
+ ul li {
+    list-style-type: none;
+    padding: 3px;
+    font-family: sans-serif;
+    font-weight: 500;
+    line-height: 1.2em;
+    display: none;
+ }
+
+   .dav:hover ~ ul li.dropdown{
+    display: block;
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

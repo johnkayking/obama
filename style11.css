@@ -1,0 +1,372 @@
+
+div.display{
+    border: 1px none red;
+    width: 180px;
+    background-color: black;
+    position: absolute;
+    top: 100px;
+    
+}
+
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: #282626;
+    background-attachment: fixed;
+    position: absolute;
+}
+
+
+.john{
+    width: 40px;
+    margin-top: 10px;
+    margin-left: 60px;
+
+}
+
+h5.h4{
+    font-weight: 500;
+    font-size: 13px;
+    margin-left: 30px;
+    color: whitesmoke;
+    font-family: sans-serif;
+
+    
+}
+
+hr{
+    margin: 20px;
+    font-weight: bolder;
+
+}
+
+a.joy{
+    margin: 7px;
+    text-decoration: none;
+    display: inline-block;
+    line-height: 1.5em;
+    font-weight: bolder;
+    font-family: sans-serif;
+    color: #58cff4;
+    word-spacing: 0.5em;
+    font-size: 13px;
+}
+a.joy:hover{
+    color: #fff;
+}
+
+.fa-facebook{
+    border: 1px none red;
+    padding: 10px;
+    border-radius: 20px;
+    background-color: aliceblue;
+    margin-left: 40px;
+    margin-top: 10px;
+
+}
+
+.fa-twitter{
+    border: 1px none red;
+    padding: 10px;
+    border-radius: 20px;
+    background-color: aliceblue;
+    margin-left: 20px;
+    
+}
+
+.fa-youtube-play{
+    border: 1px none red;
+    padding: 10px;
+    border-radius: 20px;
+    background-color: aliceblue;
+    margin-left: 40px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+
+}
+
+.fa-camera{
+    border: 1px none red;
+    padding: 10px;
+    border-radius: 20px;
+    background-color: aliceblue;
+    margin-left: 15px;
+
+}
+
+div.field{
+    margin-top: 100px;
+    margin-left: 180px;
+    margin-right: 350px;
+    border: 1px none red;
+    background-color: #fff;
+    padding-top: 5px;
+}
+
+div.adeife{
+    border: 1px none blue;
+    margin: 50px 30px 30px 30px;
+    box-sizing: border-box;
+    position: relative;
+    padding: 20px 20px 40px 20px;
+    background-color: #f4f4f4;
+}
+
+input[type="text"]{
+    width: 100%;
+    box-sizing: border-box;
+    margin:5px 0 20px 0;
+    padding: 8px;
+}
+
+textarea{
+    width: 100%;
+    height: 150px;
+    margin-bottom: 20px;
+    
+}
+
+div.put0{
+    position: relative;
+}
+
+input.put1{
+    width: 47%;
+    display: flex;
+    flex-wrap: inherit;
+    
+}
+div.put00{
+    position: absolute;
+    /* right: 200px; */
+    top: 562px;
+    width: 46%;
+
+    margin-left: 330px;
+    
+}
+
+input.put2{
+    
+    display: flex;
+    flex-wrap: inherit;
+    
+}
+
+.put01{
+    position: absolute;
+    margin-left: 330px;
+    top: 745px;
+}
+
+.put03{
+    width: 70%;
+    position: absolute;
+    margin-left: 330px;
+    top: 995px;
+}
+
+.put04{
+    width: 46%;
+    position: absolute;
+    margin-left: 330px;
+    top: 1100px;
+}
+
+.put05{
+    width: 68%;
+    padding: 8px;
+
+}
+
+.put21{
+    width: 40%;
+    padding: 8px;
+}
+
+label{
+margin-top: 20px;
+font-weight: bolder;
+font-family: sans-serif;
+
+}
+
+#sel{
+    padding: 8px;
+}
+
+.put1{
+    padding: 8px;
+}
+#sel1{
+    padding: 8px;
+    margin:5px 0 20px 0;
+    
+}
+
+.doo{
+    margin-bottom: 20px;
+    color: #000;
+    margin-bottom: 10px;
+}
+span{
+    color: red;
+}
+b{
+    color: red;
+    font-weight: bolder;
+}  
+
+h2.owi{
+    margin: 90px 0 20px 40px;
+    font-family: sans-serif;
+    font-weight: bolder;
+    color:#58cff4 ;
+}
+
+p.owe{
+    margin: 0 40px 0 40px;
+    font-size: 17px;
+    
+}
+
+.fil{
+    padding: 8px;
+}
+
+a.getin1{
+    border: 1px none green;
+    margin-top: 30px;
+    padding: 7px;
+    text-decoration: none;
+    width: 150px;
+    border-radius: 10px;
+    color: #fff;
+    background-color: #58cff4;
+    font-family: sans-serif;
+    font-weight: bold;
+ }
+
+ footer.logo11{
+    position: relative;
+    border: 1px solid green;
+    /* position: absolute; */
+    bottom: -100px;
+    width: 100%;
+    padding-right: 180px;
+    padding-left: 330px;
+    left: -0px;
+    overflow: hidden;
+    
+}
+
+/* .logo1{
+    position: absolute;
+    right: 400px;
+    top: 20px;
+} */
+/* h5.ma{
+    text-decoration: none;
+    color: #fff;
+   padding-left: 0px;
+   padding-right: 20px;
+} */
+
+
+footer.logo11{
+    border: 4px none red;
+    height: 200px;
+    /* padding: 20px; */
+    background-color: #000;
+    /* position: relative;
+    bottom: 155px; */
+    overflow: hidden;
+ }
+
+ a.logo1{
+    margin-left: 400px;
+    position: relative;
+    top: 20px;
+    overflow: hidden;
+    
+    
+   
+ }
+
+ h5.ma{
+    text-decoration:none;
+    font-family: sans-serif;
+    margin-left: 350px;
+    overflow: hidden;
+    position: relative;
+    bottom: 20px;
+    color: #fff;
+    letter-spacing: 0.1em;
+    
+ }
+
+ 
+ h6.org{
+    text-decoration: none;
+    font-family: sans-serif;
+    font-weight: 300;
+    margin-left: 380px;
+    position: relative;
+    bottom: 40px;
+    color: #fff;
+    font-size: 11px;
+    overflow: hidden;
+    letter-spacing: 0.1em;
+    
+ }
+
+ 
+ div.so{
+    border: 1px none blue;
+    margin: 40px;
+    width: 200px;
+    position: relative;
+    bottom: 160px;
+    left: 50px;
+    padding: 10px;
+    overflow: hidden;
+ }
+
+ img.gee{
+    margin-left: 72px;
+    color: whitesmoke;
+ }
+
+ .and{
+    margin-left: 20px;
+    text-decoration: none;
+    position: relative;
+    bottom: 20px;
+    overflow: hidden;
+    color: #fff;
+    font-size: 10px;
+    font-weight: 100px;
+    font-family: sans-serif ;
+   
+
+ }
+
+ div.choice{
+    position: relative;
+    bottom: 250px;
+    left: 230px;
+    padding: 10px;
+    font-size: 20px;
+    word-spacing: 0.1em;
+    overflow: hidden;
+    letter-spacing: 0.1em;
+
+ }
+ h6{
+    color: #fff;
+ }
+ a.gin{
+    color: #fff;
+    text-decoration: none;
+ }
